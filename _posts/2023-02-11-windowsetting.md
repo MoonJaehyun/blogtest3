@@ -3,7 +3,10 @@ layout: single
 title:  "윈도우 세팅 및 프로그램 설치"
 toc : true
 toc_sticky: true
-category: ise_starterbook
+categories: 
+        - ise_starterbook
+tag: 
+        - window
 ---
 
 # 윈도우 세팅 및 프로그램 설치
