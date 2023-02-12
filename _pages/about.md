@@ -19,21 +19,21 @@ padding: 5px;
 "></center>
 
 
-* NAME : JiWon, Hyeon
-* MAJOR : Computer Science Engineering
+* NAME : Jaehyun, Moon
+* MAJOR : Intelligent System Engineering  
+    (Artificial Intelligence Enginnering)
 
 ## Career & Activities
- - Undergraduate resercher at Embedded System LAB (2018.06 ~ 2020.12)
- - LikeLion 7th @SCH (2019.03 ~ 2019.12)
-
+ - Student President of the Department of Intelligent Systems Engineering
+ (2021.03 ~ 2021.12)
 ## Current Interest
  * Bigdata
- * Android Applicaiton 
  * Web Development
  * Internet of Things
+ * Unmanned aerial vehicle(UAV)
 
 ## Contact
- * Email : zlone1208@gmail.com
- * Git : [https://github.com/Hyeonjiwon](https://github.com/Hyeonjiwon)
- * Blog : [https://hyeonjiwon.github.io/](https://hyeonjiwon.github.io/)
+ * Email : jjmjh214@gmail.com
+ * Git : [https://github.com/MoonJaehyun](https://github.com/MoonJaehyun)
+ * Blog : [https://MoonJaehyun.github.io/](https://MoonJaehyun.github.io/)
 
