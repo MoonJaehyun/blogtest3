@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "Moon Jaehyun"
   avatar           : "/assets/img/me.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "문을 거꾸로하면 곰."
   location         : "South Korea"
   email            : 
   links:
